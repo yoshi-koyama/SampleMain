@@ -1,0 +1,4 @@
+name: SampleMain
+version: '${version}'
+main: com.example.samplemain.SampleMain
+api-version: '1.20'
